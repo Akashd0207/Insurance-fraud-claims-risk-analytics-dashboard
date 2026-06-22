@@ -10,15 +10,15 @@ Developed an end-to-end Power BI dashboard to analyze over 15,000 motor insuranc
 
 ### Motor Insurance Fraud & Risk Overview
 
-![Motor Insurance Fraud & Risk Overview](01_Motor Insurance Fraud & Risk Overview.png)
+![01_Overview](01_Motor%20Insurance%20Fraud%20%26%20Risk%20Overview.png)
 
 ### Fraud Investigation Analytics
 
-![Fraud Investigation Analytics](02_Fraud Investigation Analytics.png)
+![02_Fraud Investigation](02_Fraud%20Investigation%20Analytics.png)
 
 ### Fraud Pattern Discovery
 
-![Fraud Pattern Discovery](03_Fraud Pattern Discovery.png)
+![03_Fraud Pattern](03_Fraud%20Pattern%20Discovery.png)
 
 ---
 
